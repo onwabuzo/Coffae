@@ -1,4 +1,8 @@
 # Coffae
 Dev 1 Final Project
-Julian Perkins, Abigail Salazar, Natalia Barco-Caiaffa, Koko Nwabuzor, Osemdi Nwabuzor
-Koko Nwabuzor - Home Page
+
+- Julian Perkins
+- Abigail Salazar — Contact Page
+- Natalia Barco-Caiaffa
+- Koko Nwabuzor — Home Page
+- Osemdi Nwabuzor
