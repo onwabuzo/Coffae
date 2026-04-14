@@ -5,4 +5,5 @@ Dev 1 Final Project
 - Abigail Salazar — Contact Page
 - Natalia Barco-Caiaffa
 - Koko Nwabuzor — Home Page
-- Osemdi Nwabuzor
+- Osemdi Nwabuzor - Join Waitlist / Newsletter Page
+
